@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning ** MERN **
  
 
-- 💬 Ask me about **DSA, Java, ML, AI, Javascript, Css, Html**
+- 💬 Ask me about ** DSA, Java, ML, AI, Javascript, Css, Html **
 
 
 
-- ⚡ Fun fact **I am always like......**   <img align="middle" alt="Coding" width="150" src= https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif>
+- ⚡ Fun fact **I am always like......** <img align="middle" alt="Coding" width="150" src= https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif>
 
 
 

@@ -46,6 +46,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasidas21&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shreyasidas21&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
 </p>
 
 
